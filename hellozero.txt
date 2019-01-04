@@ -1,11 +1,2 @@
- Le volume dans le lecteur C s'appelle OS
- Le num‚ro de s‚rie du volume est B2DC-775D
-
- R‚pertoire de C:\Users\emmanuel\Documents\emmagit\projetpython\testopenclassroom
-
-04/01/2019  16:57    <DIR>          .
-04/01/2019  16:57    <DIR>          ..
-04/01/2019  16:57                 0 hellozero.txt
-04/01/2019  16:57                19 README.md
-               2 fichier(s)               19 octets
-               2 R‚p(s)  833ÿ411ÿ878ÿ912 octets libres
+bonjour les zero je suis satisfait de la formation
+elle est tres interressante.....
